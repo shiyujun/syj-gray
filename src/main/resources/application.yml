@@ -1,0 +1,3 @@
+#unicode-pay-order:
+ # ribbon:
+ #   NIWSServerListFilterClassName: cn.shiyujun.config.GrayServerListFilter
